@@ -21,3 +21,6 @@
 
 en:
   hello: "Hello world"
+  spree:
+    order_state:
+      single_step_checkout: Single Step Checkout
